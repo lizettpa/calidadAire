@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Es un proyecto para servir datos relacionados con la calidad del aire.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ambiente",
+    "calidad",
+    "aire"
+  ],
+  "author": "Lizett Pabon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
